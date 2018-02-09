@@ -1,0 +1,2 @@
+# Ignore backup files created by PL/SQL Developer  [Randy Oswald 3/3/17]
+*.~*
